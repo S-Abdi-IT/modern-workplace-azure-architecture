@@ -9,7 +9,7 @@ Het doel van dit project is om aan te tonen hoe organisaties overstappen van tra
 * **Identity-First Security & Zero Trust:** Geautomatiseerde onboarding van gebruikers, Multi-Factor Authentication (MFA) via Conditional Access en noodtoegang via *Break-Glass* accounts.
 * **Infrastructure as Code (IaC) & Automatisering:** Herhaalbare en foutloze uitrol met **PowerShell (Microsoft Graph)** en **Azure Bicep**.
 * **Veilige Cloud-Infrastructuur:** Ondersteunende applicatieservers zonder blootstelling aan het publieke internet, beheerd via **Azure Bastion**.
-* **Continuïteit & FinOps:** Geautomatiseerde back-ups, bewezen noodherstel (*Disaster Recovery*), proactieve monitoring en strikt kostenbeheer.
+* **Continuïteit & FinOps:** Geautomatiseerde back-ups, noodherstel (*Disaster Recovery*), proactieve monitoring en strikt kostenbeheer.
 
 ---
 
