@@ -75,10 +75,10 @@ graph TD
 ![VNet Subnets](screenhots/04-vnet-subnets.png)
 
 **Windows Server zonder publiek IP-adres (afgeschermd van internet):**
-![VM Overview zonder Publiek IP](screenshots/05-vm-overview-no-public-ip.png)
+![VM Overview zonder Publiek IP](screenhots/05-vm-overview-no-public-ip.png)
 
 **Veilige beheersessie via Azure Bastion (HTTPS):**
-![Azure Bastion Sessie](screenshots/06-azure-bastion-sessie.png)
+![Azure Bastion Sessie](screenhots/06-azure-bastion-sessie.png)
 
 ---
 
@@ -87,12 +87,9 @@ graph TD
 * **Proactieve Monitoring:** Via *Azure Monitor* stuurt een waarschuwingsregel (`CPU-Alarm-85`) direct een melding bij hoge systeembelasting.
 * **FinOps & Kostenbeheer:** Met *Azure Cost Management* is een budgetlimiet van €15 ingesteld. Na afronding zijn alle test-resources opgeruimd.
 
-**Bewezen bestandsherstel in Windows Verkenner:**
-![Disaster Recovery Verkenner](screenshots/07-disaster-recovery-verkenner.png)
-
 **Proactieve waarschuwingsregel in Azure Monitor:**
-![Azure Monitor Alert](screenshots/08-azure-monitor-alert.png)
+![Azure Monitor Alert](screenhots/08-azure-monitor-alert.png)
 
 **Kostenbewaking via Azure Cost Management:**
-![Cost Management Budget](screenshots/09-cost-management-budget.png)
+![Cost Management Budget](screenhots/09-cost-management-budget.png)
 
