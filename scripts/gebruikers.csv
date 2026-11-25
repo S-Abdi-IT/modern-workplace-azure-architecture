@@ -1,0 +1,26 @@
+gebruikers'DisplayName,UserPrincipalName,GivenName,Surname,Department,JobTitle,Role,AccountType
+BG Admin 01,bg.admin01@Abdi689.onmicrosoft.com,BreakGlass,Admin,IT,Emergency Access Account,Global Administrator,BreakGlass
+Siad Abdi,SiadAbdi@Abdi689.onmicrosoft.com,Abdi,IT,Senior Cloud Beheerder,Global Administrator,Admin,
+Sophie Bakker,s.bakker@Abdi689.onmicrosoft.com,Sophie,Bakker,IT,Systeembeheerder,User Administrator,Standard
+Liam Visser,l.visser@Abdi689.onmicrosoft.com,Liam,Visser,IT,Servicedesk Medewerker,Helpdesk Administrator,Standard
+Emma Smit,e.smit@Abdi689.onmicrosoft.com,Emma,Smit,Directie,Algemeen Directeur,User,Standard
+Lucas Meijer,l.meijer@Abdi689.onmicrosoft.com,Lucas,Meijer,Directie,Financieel Directeur,User,Standard
+Julia Mulder,j.mulder@Abdi689.onmicrosoft.com,Julia,Mulder,Directie,Operationeel Directeur,User,Standard
+Noah Bos,n.bos@Abdi689.onmicrosoft.com,Noah,Bos,HR,HR Manager,User,Standard
+Mila Vos,m.vos@Abdi689.onmicrosoft.com,Mila,Vos,HR,Recruiter,User,Standard
+Sem Peters,s.peters@Abdi689.onmicrosoft.com,Sem,Peters,HR,HR Adviseur,User,Standard
+Tess Hendriks,t.hendriks@Abdi689.onmicrosoft.com,Tess,Hendriks,HR,Salarisadministrateur,User,Standard
+Finn van Dijk,f.vandijk@Abdi689.onmicrosoft.com,Finn,van Dijk,Financien,Controller,User,Standard
+Zoë Janssen,z.janssen@Abdi689.onmicrosoft.com,Zoë,Janssen,Financien,Boekhouder,User,Standard
+Levi van Leeuwen,l.vanleeuwen@Abdi689.onmicrosoft.com,Levi,van Leeuwen,Financien,Debiteurenbeheerder,User,Standard
+Sara Brouwer,s.brouwer@Abdi689.onmicrosoft.com,Sara,Brouwer,Financien,Crediteurenbeheerder,User,Standard
+Luuk de Boer,l.deboer@Abdi689.onmicrosoft.com,Luuk,de Boer,Sales,Sales Manager,User,Standard
+Noor Koning,n.koning@Abdi689.onmicrosoft.com,Noor,Koning,Sales,Accountmanager,User,Standard
+Bram Kuipers,b.kuipers@Abdi689.onmicrosoft.com,Bram,Kuipers,Sales,Accountmanager,User,Standard
+Lotte Scholten,l.scholten@Abdi689.onmicrosoft.com,Lotte,Scholten,Sales,Commercieel Medewerker,User,Standard
+Jesse Willems,j.willems@Abdi689.onmicrosoft.com,Jesse,Willems,Sales,Sales Support,User,Standard
+Eva Hoekstra,e.hoekstra@Abdi689.onmicrosoft.com,Eva,Hoekstra,Marketing,Marketing Manager,User,Standard
+Milan Vermeer,m.vermeer@Abdi689.onmicrosoft.com,Milan,Vermeer,Marketing,Content Specialist,User,Standard
+Fleur de Groot,f.degroot@Abdi689.onmicrosoft.com,Fleur,de Groot,Marketing,Online Marketeer,User,Standard
+Sam Dijkstra,s.dijkstra@Abdi689.onmicrosoft.com,Sam,Dijkstra,Operatie,Teamleider Logistiek,User,Standard
+Nina van der Berg,n.vanderberg@Abdi689.onmicrosoft.com,Nina,van der Berg,Operatie,Logistiek Coordinator,User,Standard
