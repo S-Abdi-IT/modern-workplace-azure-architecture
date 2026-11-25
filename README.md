@@ -60,7 +60,9 @@ graph TD
 ![Entra Users](screenshots/01-powershell-bulk-import.png)
 
 **Zero Trust Conditional Access beleid (MFA verplicht + Break-Glass uitsluiting):**
-![Conditional Access](screenshots/02b-entra-users-en-breakglass.png)
+![Conditional Access](screenhots/02a-entra-users-en-breakglass.png,screenhots/02b-entra-users-en-breakglass.png)
+
+![RBAC](screenhots/03-rbac-role-assignments.png)
 
 ---
 
@@ -70,7 +72,7 @@ graph TD
 * **Beheer via de Browser:** Beheerders maken zonder VPN veilig verbinding via **Azure Bastion** over versleuteld HTTPS-verkeer (poort 443).
 
 **Netwerksegmentatie met gescheiden subnetten:**
-![VNet Subnets](screenshots/04-vnet-subnets.png)
+![VNet Subnets](screenhots/04-vnet-subnets.png)
 
 **Windows Server zonder publiek IP-adres (afgeschermd van internet):**
 ![VM Overview zonder Publiek IP](screenshots/05-vm-overview-no-public-ip.png)
