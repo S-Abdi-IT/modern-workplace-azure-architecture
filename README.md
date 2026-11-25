@@ -57,7 +57,7 @@ graph TD
 * **Conditional Access & Break-Glass Strategie:** Alle gebruikers zijn verplicht om zich te verifiëren met MFA. Tegelijkertijd zijn twee *Break-Glass* noodaccounts uitgesloten van dit beleid volgens Microsoft Best Practices.
 
 **Geautomatiseerd aangemaakte gebruikers in Microsoft Entra ID:**
-![Entra Users](screenshots/01-powershell-bulk-import.png)
+![Entra Users](screenhots/01-powershell-bulk-import.png)
 
 **Zero Trust Conditional Access beleid (MFA verplicht + Break-Glass uitsluiting):**
 ![Conditional Access](screenhots/02a-entra-users-en-breakglass.png,screenhots/02b-entra-users-en-breakglass.png)
