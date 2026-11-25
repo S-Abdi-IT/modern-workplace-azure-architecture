@@ -60,7 +60,7 @@ graph TD
 ![Entra Users](screenhots/01-powershell-bulk-import.png)
 
 **Zero Trust Conditional Access beleid (MFA verplicht + Break-Glass uitsluiting):**
-![Conditional Access](screenhots/02a-entra-users-en-breakglass.png,screenhots/02b-entra-users-en-breakglass.png)
+![Conditional Access](screenhots/02b-entra-users-en-breakglass.png)
 
 ![RBAC](screenhots/03-rbac-role-assignments.png)
 
